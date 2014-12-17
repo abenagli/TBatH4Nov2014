@@ -15,5 +15,9 @@
 *.la
 *.a
 
+# Dictionary files
+mydict.cc
+mydict.h
+
 # Root files
 *.root
