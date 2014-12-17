@@ -1,3 +1,5 @@
+. /afs/cern.ch/sw/lcg/external/gcc/4.7/x86_64-slc6/setup.sh
+
 export ROOTSYS=/afs/cern.ch/sw/lcg/app/releases/ROOT/5.34.18/x86_64-slc6-gcc47-opt/root/
 
 if [[ $PATH == *${ROOTSYS}/bin* ]]
