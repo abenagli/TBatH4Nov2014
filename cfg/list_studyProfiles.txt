@@ -1,0 +1,4 @@
+### runs with PWO
+/afs/cern.ch/work/a/abenagli/CFCalTools/SPACAL/TBatH4Nov2014/ntuples/reco_test_run1371.root
+/afs/cern.ch/work/a/abenagli/CFCalTools/SPACAL/TBatH4Nov2014/ntuples/reco_test_run1372.root
+/afs/cern.ch/work/a/abenagli/CFCalTools/SPACAL/TBatH4Nov2014/ntuples/reco_test_run1373.root
