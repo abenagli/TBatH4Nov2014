@@ -1,0 +1,23 @@
+# Executable files
+*.exe
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Dictionary files
+mydict.cc
+mydict.h
+
+# Root files
+*.root
